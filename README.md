@@ -36,8 +36,22 @@ Este projeto tem como objetivo criar um sistema de vendas que permite a gestão 
 
 ## Desenvolvimento do projeto 
 
-1. **Clone o repositório**:
+1. **Banco de dados**:
 
+![banco de dados](https://github.com/Yacsu77/Controle_de_vendas_Prototipo/assets/169161195/b997fc05-e3a4-4735-b40b-44de64e5e10b)
 
+2. **conexão Doker**:
 
+![Entrada do doker](https://github.com/Yacsu77/Controle_de_vendas_Prototipo/assets/169161195/887c0df8-b10d-407b-b071-66082ed92b47)
+
+3. **Tela inicial do projeto**:
+
+![Foto 1](https://github.com/Yacsu77/Controle_de_vendas_Prototipo/assets/169161195/f9d1a450-4be7-4858-9d04-b7f041231ee7)
    
+4. **Lista de Produtos cadastrados**:
+
+![lista de produtos cadastrados](https://github.com/Yacsu77/Controle_de_vendas_Prototipo/assets/169161195/94f47c9e-5b14-4231-922b-f5447203700e)
+
+5. **Tela de Cadastro **:
+
+![cadastro de clientes](https://github.com/Yacsu77/Controle_de_vendas_Prototipo/assets/169161195/9ed7c9a5-138b-4c1c-a49b-ae16700c8e14)
